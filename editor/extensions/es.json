@@ -212,5 +212,5 @@
     "wedo2.tiltDirection.up": "arriba",
     "wedo2.whenDistance": "cuando distancia [OP] [REFERENCE]",
     "wedo2.whenTilted": "al inclinar hacia [TILT_DIRECTION_ANY]",
-    "interfaz.salidas": "salidas"
+    "interfaz.salidas": "salida [SALIDAS_PARAM] [SALIDAS_OP_PARAM]"
 }
