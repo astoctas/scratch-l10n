@@ -500,5 +500,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
-    "gui.gui.defaultProjectTitle": "Proyecto de Scratch"
+    "gui.gui.defaultProjectTitle": "Proyecto de Scratch",
+    "gui.extension.interfaz.description": "Interfaz robótica",
+    "gui.extension.rasti.description": "Interfaz Rasti",
+    "gui.extension.i2c.description": "Interfaz robótica I2C",
+    "gui.extension.socket.description": "Python Socket"
 }
